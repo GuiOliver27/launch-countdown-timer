@@ -5,7 +5,7 @@ Este é um projeto de contagem regressiva
 
 ## Iniciando
 
-Inicie o projeto apenas  [clicando aqui](https://menu-mobile-eight.vercel.app/)
+Inicie o projeto apenas  [clicando aqui](https://launch-countdown-timer-phi.vercel.app/)
 
 
 
